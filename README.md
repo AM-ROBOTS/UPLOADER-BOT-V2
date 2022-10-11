@@ -2,21 +2,21 @@
 
 [![logo](https://telegra.ph/file/56ee1462c2c19528f75b6.jpg)]
 
-[![GitHub forks](https://img.shields.io/github/forks/8769ANURAG/UPLOADER-BOT-V2?&style=flat-square&logo=github)](https://github.com/8769ANURAG/UPLOADER-BOT-V2/fork)
-![Repo Size](https://img.shields.io/github/repo-size/8769ANURAG/UPLOADER-BOT-V2?&style=flat-square&logo=github)
-[![GitHub stars](https://img.shields.io/github/stars/8769ANURAG/UPLOADER-BOT-V2?&style=flat-square&logo=github)](https://github.com/8769ANURAG/UPLOADER-BOT-V2)
+[![GitHub forks](https://img.shields.io/github/forks/AM-ROBOTS/UPLOADER-BOT-V2?&style=flat-square&logo=github)](https://github.com/AM-ROBOTS/UPLOADER-BOT-V2/fork)
+![Repo Size](https://img.shields.io/github/repo-size/AM-ROBOTS/UPLOADER-BOT-V2?&style=flat-square&logo=github)
+[![GitHub stars](https://img.shields.io/github/stars/AM-ROBOTS/UPLOADER-BOT-V2?&style=flat-square&logo=github)](https://github.com/AM-ROBOTS/UPLOADER-BOT-V2)
 
   
 
 ### Fork And Deploy
 
-  ㅤ ㅤ   ㅤ <a href="https://github.com/8769ANURAG/UPLOADER-BOT-V2/fork"><img alt="Fork and deploy" src="https://img.shields.io/badge/-Fork%20And%20Deploy-black?style=for-the-badge&logo=github&logoColor=white"/></a> 
+  ㅤ ㅤ   ㅤ <a href="https://github.com/AM-ROBOTS/UPLOADER-BOT-V2/fork"><img alt="Fork and deploy" src="https://img.shields.io/badge/-Fork%20And%20Deploy-black?style=for-the-badge&logo=github&logoColor=white"/></a> 
 
 
 
 ### Deploy To Heroku
 
-  ㅤ ㅤ   ㅤ <a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2F8769ANURAG/UPLOADER-BOT-V2"><img alt="heroku" src="https://img.shields.io/badge/-Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku&logoColor=white"/></a> 
+  ㅤ ㅤ   ㅤ <a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FAM-ROBOTS/UPLOADER-BOT-V2"><img alt="heroku" src="https://img.shields.io/badge/-Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku&logoColor=white"/></a> 
 
 
 ### Config Vars:
